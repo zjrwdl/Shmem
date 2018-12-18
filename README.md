@@ -1,5 +1,5 @@
-# Ashmem
-A Ashmem Demo
+# Shmem
+A Shmem Demo
 
 用gcc编译：(compile with gcc)
 
